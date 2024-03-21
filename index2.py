@@ -1,3 +1,8 @@
+#Odongokara Oscar 
+#Kiisa Angela
+#Mutumba Benjamin 
+#Buwembo David Denzel 
+#Nziriga Isaac Nickson
 class BrowserStack:
     def __init__(self):
         self.stack = []
