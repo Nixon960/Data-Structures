@@ -1,4 +1,3 @@
-#GROUP ONE
 class BrowserStack:
     def __init__(self):
         self.stack = []
@@ -32,9 +31,3 @@ print(browser.backward())
 print(browser.forward())
 print(browser.navigation("www.3wschools.com"))
 print(browser.forward())
-
-#Odongokara Oscar 
-#Kiisa Angela
-#Mutumba Benjamin 
-#Buwembo David Denzel 
-#Nziriga Isaac Nickson
